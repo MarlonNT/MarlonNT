@@ -4,6 +4,7 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure ](https://github.com/MarlonNT/Azure-SOC)
+  - [Vulnerability Management Lab with Nessus]https://github.com/MarlonNT/Nessus-Vulnerability-Lab
 
 <h2> 🤳 Connect with me:</h2>
 
