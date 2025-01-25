@@ -6,6 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure ](https://github.com/MarlonNT/Azure-SOC)
   - [Vulnerability Management with Nessus ](https://github.com/MarlonNT/Nessus-Vulnerability-Lab)
   - [Vulnerability Management with OpenVAS ](https://github.com/MarlonNT/OpenVAS-Vulnerability-Management)
+  - [Governance, Risk & Compliance Audit ](https://github.com/MarlonNT/GRC-Audit)
  
 - <b> Windows System Administrator Project </b>
   - [Active Directory & Powershell project ](https://github.com/MarlonNT/Active-Directory-Lab)
