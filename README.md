@@ -1,11 +1,14 @@
 <h1>Hi, I'm Marlon! <br/><a href="https://github.com/MarlonNT/MarlonNT">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/marlontenga/">Cybersecurity Professional</a> 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b>Azure / Cloud Projects</b>
+- <b>Cybersecurity / Cloud Projects </b>
   - [Creating a Live SOC / Honeynet in Azure ](https://github.com/MarlonNT/Azure-SOC)
   - [Vulnerability Management with Nessus ](https://github.com/MarlonNT/Nessus-Vulnerability-Lab)
   - [Vulnerability Management with OpenVAS ](https://github.com/MarlonNT/OpenVAS-Vulnerability-Management)
+ 
+- <b> Windows System Administrator Project </b>
+  - [Active Directory & Powershell project ](https://github.com/MarlonNT/Active-Directory-Lab)
 
 <h2> 🤳 Connect with me:</h2>
 
