@@ -1,4 +1,4 @@
-<h1>Hi, I'm Marlon! <br/><a href="https://github.com/MarlonNT/MarlonNT">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/marlontenga/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Marlon! <br/><a href="https://www.linkedin.com/in/marlontenga/">IT & Cybersecurity Professional</a> 
 
 <h2>👨‍💻 Projects:</h2>
 
