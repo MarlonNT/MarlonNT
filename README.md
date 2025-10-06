@@ -3,6 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>Cybersecurity / Cloud Projects </b>
+  - [Threat Hunting Project: Detecting Tor Usage ](https://github.com/MarlonNT/threat-hunting-scenario-tor)
   - [Creating a Live SOC / Honeynet in Azure ](https://github.com/MarlonNT/Azure-SOC)
   - [Vulnerability Management with Nessus ](https://github.com/MarlonNT/Nessus-Vulnerability-Lab)
   - [Vulnerability Management with OpenVAS ](https://github.com/MarlonNT/OpenVAS-Vulnerability-Management)
